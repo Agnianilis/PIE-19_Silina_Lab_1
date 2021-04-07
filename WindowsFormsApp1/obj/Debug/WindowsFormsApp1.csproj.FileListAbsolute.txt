@@ -35,3 +35,4 @@ C:\Users\user\Desktop\PIE-19_Silina_Lab_1\WindowsFormsApp1\obj\Debug\WindowsForm
 C:\Users\user\Desktop\PIE-19_Silina_Lab_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 C:\Users\user\Desktop\PIE-19_Silina_Lab_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\user\Desktop\PIE-19_Silina_Lab_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\projects\PIE-19_Silina_Lab_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
